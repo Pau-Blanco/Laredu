@@ -1,6 +1,13 @@
 # Laredu
 Plataforma escolar con **Laravel 11** (backend) y **React 19**
 (frontend).
+##Tecnologías
+- Laravel 11
+- React 19 + TypeScript
+- MySQL
+- Laravel Sanctum
+- Tailwind CSS 4
+- FullCalendar.js 
 ## Requisitos
 - PHP ^8.2
 - Composer
