@@ -14,14 +14,15 @@ Plataforma escolar con **Laravel 11** (backend) y **React 19**
 - Node.js & npm
 - MySQL
 ## Instalación del Backend (Laravel 11)
-1. # Crear el proyecto en la carpeta "backend" 'composer create-project laravel/laravel backend'
-2. Copiar `.env.example` a `.env` y configurar la base de datos
-3. Ejecutar:
+1. # Crear el proyecto en la carpeta "backend"
+   'composer create-project laravel/laravel backend'
+3. Copiar `.env.example` a `.env` y configurar la base de datos
+4. Ejecutar:
  composer install
  php artisan key:generate
  php artisan migrate --seed
  php artisan serve
-4. El backend estará disponible en http://127.0.0.1:8000
+5. El backend estará disponible en http://127.0.0.1:8000
 Archivo SQL
 • En backend/database/laredu.sql se encuentra el backup de
 la base de datos.
