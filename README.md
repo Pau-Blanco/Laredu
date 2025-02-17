@@ -14,8 +14,7 @@ Plataforma escolar con **Laravel 11** (backend) y **React 19**
 - Node.js & npm
 - MySQL
 ## Instalación del Backend (Laravel 11)
-1. # Crear el proyecto en la carpeta "backend"
-composer create-project laravel/laravel backend
+1. # Crear el proyecto en la carpeta "backend" 'composer create-project laravel/laravel backend'
 2. Copiar `.env.example` a `.env` y configurar la base de datos
 3. Ejecutar:
  composer install
