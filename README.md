@@ -1,7 +1,7 @@
 # Laredu
 Plataforma escolar con **Laravel 11** (backend) y **React 19**
 (frontend).
-##Tecnologías
+## Tecnologías
 - Laravel 11
 - React 19 + TypeScript
 - MySQL
